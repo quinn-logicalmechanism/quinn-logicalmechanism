@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @quinn-logicalmechanism
-- 📫 Reach out: quinn@logicalmechanism.io
+👋 Hi, I’m Quinn, the lead smart contract developer at [Logical Mechanism LLC](https://www.logicalmechanism.io/). I specialize in designing and developing secure, scalable smart contract solutions in Aiken.
 
-<!---
-quinn-logicalmechanism/quinn-logicalmechanism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Interests: Zero-knowledge, functional programming, and Cardano development.
+
+📫 Reach out: quinn@logicalmechanism.io
